@@ -1,0 +1,11 @@
+com\qa\vehicles\Truck.class
+com\qa\menu\MainMenu.class
+com\qa\menu\TruckMenu.class
+com\qa\vehicles\Vehicle.class
+com\qa\menu\Runner.class
+com\qa\vehicles\Motorbike.class
+com\qa\garage\Garage.class
+com\qa\menu\MotorbikeMenu.class
+com\qa\vehicles\Car.class
+com\qa\menu\CarMenu.class
+com\qa\menu\VehicleMenu.class
